@@ -1,0 +1,4 @@
+﻿  assignment.c
+C:\Users\godly\Desktop\Cass3\grant6120cosc292a3\grant6120cosc292a3\assignment.c(149,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\godly\Desktop\Cass3\grant6120cosc292a3\grant6120cosc292a3\assignment.c(184,18): warning C4018: '>=': signed/unsigned mismatch
+  grant6120cosc292a3.vcxproj -> C:\Users\godly\Desktop\Cass3\grant6120cosc292a3\x64\Debug\grant6120cosc292a3.exe
